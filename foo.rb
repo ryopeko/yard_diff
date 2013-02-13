@@ -5,6 +5,6 @@ class Foo
   def bar
   end
 
-  def baz
+  def qux
   end
 end
